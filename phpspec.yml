@@ -1,0 +1,4 @@
+suites:
+  library_suite:
+    namespace: Elmhurst\QboGuzzler\Tests
+    psr4_prefix: Elmhurst\QboGuzzler\Tests
